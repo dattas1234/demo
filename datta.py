@@ -3,7 +3,7 @@ for a in range(1,4,2):
 
 else: 
  print("datta")
-for x in range(2):
+for x in range(2):  #hii this datta
     pass 
 print("its working")
 def fun(*args):
